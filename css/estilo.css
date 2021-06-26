@@ -29,10 +29,6 @@ body{
     margin: 0 auto;
 }
 
-/*#area-postagens, #area-lateral{
-    background-color: orange;
-}*/
-
 #area-postagens{
     width: 660px;
     float: left;
